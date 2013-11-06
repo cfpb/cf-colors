@@ -1,0 +1,9 @@
+{
+  "name": "fj-colors",
+  "private": true,
+  "version": "0.1.0",
+  "main": "src/colors.less",
+  "dependencies": {
+    "fj-colors": "git://fake.ghe.domain/flapjack/fj-colors.git"
+  }
+}
