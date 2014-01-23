@@ -1,0 +1,24 @@
+v0.2.1:
+  date: 2013-12-13
+  changes:
+    - Adds @white var.
+
+v0.2.0:
+  date: 2013-11-07
+  changes:
+    - Update to match Brand 2.0 guidelines released on October 30, 2013.
+
+v0.1.2
+  date: 2013-11-06
+  changes:
+    - Removes recursive dependency.
+
+v0.1.1
+  date: 2013-11-06
+  changes:
+    - Adds bower.json.
+
+v0.1.0
+  date: 2013-10-16
+  changes:
+    - Initial release.
