@@ -1,7 +1,7 @@
 {
   "name": "cf-colors",
   "description": "Color variables for the Capital Framework.",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "homepage": "http://github.com/cfpb/cf-colors",
   "author": {
     "name": "Consumer Financial Protection Bureau",
