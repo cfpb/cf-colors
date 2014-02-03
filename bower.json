@@ -1,6 +1,19 @@
 {
   "name": "cf-colors",
-  "private": true,
   "version": "0.3.0",
+  "description": "Less color variables for the Consumer Financial Protection Bureau. Part of Capital Framework.",
+  "keywords": ["capital-framework", "capital", "colors", "less"],
+  "authors": [
+    {
+      "name": "Consumer Financial Protection Bureau",
+      "url": "http://cfpb.github.io/"
+    }
+  ],
+  "homepage": "http://github.com/cfpb/cf-colors",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/cfpb/cf-colors.git"
+  },
+  "license": "http://github.com/cfpb/cf-colors/blob/master/TERMS.md",
   "main": "src/colors.less"
 }
