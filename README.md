@@ -10,8 +10,8 @@ a forthcoming front end framework developed at the CFPB.
 
 We welcome your feedback and contributions.
 
-- [Find out about contributing](/cfpb/cf-colors/blob/master/CONTRIBUTING.md)
-- [File a bug](/cfpb/cf-colors/issues/new?body=%23%23%20URL%0D%0D%0D%23%23%20Actual%20Behavior%0D%0D%0D%23%23%20Expected%20Behavior%0D%0D%0D%23%23%20Steps%20to%20Reproduce%0D%0D%0D%23%23%20Screenshot&labels=bug)
+- [Find out about contributing](https://github.com/cfpb/cf-colors/blob/master/CONTRIBUTING.md)
+- [File a bug](https://github.com/cfpb/cf-colors/issues/new?body=%23%23%20URL%0D%0D%0D%23%23%20Actual%20Behavior%0D%0D%0D%23%23%20Expected%20Behavior%0D%0D%0D%23%23%20Steps%20to%20Reproduce%0D%0D%0D%23%23%20Screenshot&labels=bug)
 
 
 ## Using cf-colors independent of Capital Framework
