@@ -7,16 +7,16 @@
     "name": "Consumer Financial Protection Bureau",
     "url": "http://cfpb.github.io/"
   },
-  "homepage": "http://github.com/cfpb/cf-colors",
+  "homepage": "https://github.com/cfpb/cf-colors",
   "repository": {
     "type": "git",
-    "url": "http://github.com/cfpb/cf-colors.git"
+    "url": "https://github.com/cfpb/cf-colors.git"
   },
-  "bugs": "http://github.com/cfpb/cf-colors/issues",
+  "bugs": "https://github.com/cfpb/cf-colors/issues",
   "licenses": [
     {
       "type": "Public Domain",
-      "url": "http://github.com/cfpb/cf-colors/blob/master/TERMS.md"
+      "url": "https://github.com/cfpb/cf-colors/blob/master/TERMS.md"
     }
   ],
   "main": "src/colors.less"
