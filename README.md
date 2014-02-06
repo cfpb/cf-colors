@@ -1,9 +1,8 @@
 # cf-colors
 
-Less color variables for the [Consumer Financial Protection Bureau](http://cfpb.github.io/).
-
+Less color variables for the [Consumer Financial Protection Bureau](http://cfpb.github.io/) color palette.
 This component can be used by itself, but it was made for Capital Framework,
-a forthcoming front end framework developed at the CFPB.
+a new front end framework developed at the [Consumer Financial Protection Bureau](http://cfpb.github.io/).
 
 
 ## Contributing
@@ -14,9 +13,9 @@ We welcome your feedback and contributions.
 - [File a bug](https://github.com/cfpb/cf-colors/issues/new?body=%23%23%20URL%0D%0D%0D%23%23%20Actual%20Behavior%0D%0D%0D%23%23%20Expected%20Behavior%0D%0D%0D%23%23%20Steps%20to%20Reproduce%0D%0D%0D%23%23%20Screenshot&labels=bug)
 
 
-## Using cf-colors independent of Capital Framework
+## Using this component independent of Capital Framework
 
-If you're already using [Bower](http://bower.io/), simply add cf-colors as a dependency
+If you're already using [Bower](http://bower.io/), simply add this component as a dependency
 and integrate it into your build process.
 It's not currently in the Bower registry, so you'll have to point to this Git repo's URL.
 

@@ -1,7 +1,7 @@
 {
   "name": "cf-colors",
   "version": "0.3.0",
-  "description": "Less color variables for the Consumer Financial Protection Bureau. Part of Capital Framework.",
+  "description": "Less color variables for Capital Framework.",
   "keywords": ["capital-framework", "capital", "colors", "less"],
   "author": {
     "name": "Consumer Financial Protection Bureau",
