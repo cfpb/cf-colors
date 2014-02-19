@@ -19,5 +19,5 @@
       "url": "https://github.com/cfpb/cf-colors/blob/master/TERMS.md"
     }
   ],
-  "main": "src/colors.less"
+  "main": "src/cf-colors.less"
 }
