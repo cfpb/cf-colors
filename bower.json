@@ -19,6 +19,6 @@
     "type": "git",
     "url": "https://github.com/cfpb/cf-colors.git"
   },
-  "license": "https://github.com/cfpb/cf-colors/blob/master/TERMS.md",
+  "license": "https://github.com/cfpb/cf-colors/blob/gh-pages/TERMS.md",
   "main": "src/cf-colors.less"
 }
