@@ -1,3 +1,6 @@
+# :warning: THIS REPO WILL SOON BE DEPRECATED :warning:
+Please migrate to using [cf-core](https://github.com/cfpb/cf-core) which contains all of the same color variables.
+
 # cf-colors
 
 Less color variables for the [Consumer Financial Protection Bureau](https://cfpb.github.io/)
