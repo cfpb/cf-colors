@@ -1,4 +1,4 @@
-# :warning: THIS REPO WILL SOON BE DEPRECATED :warning:
+# :warning: THIS REPO IS DEPRECATED (4/23/2015) :warning:
 Please migrate to using [cf-core](https://github.com/cfpb/cf-core) which contains all of the same color variables.
 
 # cf-colors
